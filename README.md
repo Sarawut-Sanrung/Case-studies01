@@ -1,2 +1,0 @@
-deekup
-Hello word
